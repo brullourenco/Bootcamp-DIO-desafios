@@ -1,6 +1,6 @@
-# Desafio DIO Controles de Estrutura
+# Desafio Bootcamp Potência Tech iFood - Programação do Zero
 
-Desafio proposto no Bootcamp da DIO, como exercício para praticar estruturas de controle, variáveis ​​e constantes.
+Desafio proposto no Bootcamp da DIO, como exercício para praticar estruturas de controle, operadores e lógica de programação.
 
 # Tecnologia
 
